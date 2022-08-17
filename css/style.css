@@ -24,3 +24,13 @@ h1 {
   font-size: 4rem;
   font-weight: bold;
 }
+
+.container {
+  border: 1px solid black;
+  background-color: rgba(0, 0, 255, 0.558);
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
